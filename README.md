@@ -1,2 +1,3 @@
-# AspireNex-Titanic_Survival_Detection_using_PYTHON
-Prediction Model using Machine Learning By Python Implementation
+# AspireNex-Tasks for Data Science
+Task 1 :- Iris Flower Classification
+Task 2 :- Titanic Survival Prediction
